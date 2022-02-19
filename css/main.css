@@ -1174,7 +1174,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffb674;
+  background: #06a490;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2570,7 +2570,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("https://img.fghrsh.net/image/Wd1ss");
+  background: url("https://raw.githubusercontent.com/yelvtiiiiiii/blog-img/main/IMG_1200.PNG");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
